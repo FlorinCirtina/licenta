@@ -1,6 +1,6 @@
 # licenta-cantina
 
-git clone https://github.com/florinCartina/licenta-cantina.git
+git clone https://github.com/FlorinCirtina/licenta.git
 
 cd licenta
 
